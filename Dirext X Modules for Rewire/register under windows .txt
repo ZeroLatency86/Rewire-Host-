@@ -1,0 +1,2 @@
+regsvr32 C:\ the name goes here 
+regsvr32 -u C:\ the name goes here
