@@ -54,3 +54,5 @@ Make aney Plugin have its own  (Hybrid Rewire Slave Mode) All Windows Support XP
 		<channel name="(Your Channel Name) St(16) R" stereo="0"/>
 	</ReWireChannels>
 </ReWireDeviceDescription>
+Protools Support 
+![IMG_0163](https://user-images.githubusercontent.com/124946940/230790878-7858cb2a-6bdc-4ea5-9ce6-8e4dbb56a8dd.JPG)
