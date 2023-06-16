@@ -56,5 +56,6 @@ Make aney Plugin have its own  (Hybrid Rewire Slave Mode) All Windows Support XP
 
 </ReWireDeviceDescription>
 Protools Support 
-![IMG_0163](https://user-images.githubusercontent.com/124946940/230790878-7858cb2a-6bdc-4ea5-9ce6-8e4dbb56a8dd.JPG)
+
 Guess WiKi is Wrong You can rewire Everthing 
+![IMG_0018 (1)](https://github.com/ZeroLatency86/Rewire-Host-/assets/124946940/94671c90-e6f8-461b-81af-b8b865449748)
