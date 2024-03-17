@@ -1,0 +1,51 @@
+<ReWireDeviceDescription>
+	<ReWireDeviceInfos>
+		<info name="deviceName"        value="HALion ReWire"/>	
+		<info name="deviceDLLName"     value="HALion ReWire"/>	
+		<info name="deviceIPCName"     value="HALion"/>		
+		<info name="deviceSignature"   value="StgS"/>			
+		<info name="numMidiChannels"   value="16"/>			
+		<info name="midiChannelPrefix" value="H"/>			
+	</ReWireDeviceInfos>
+
+	<VSTOutputInfos>
+		<info name="numStereoOutputs" value="16"/>
+		<info name="numMonoOutputs"   value="0"/>
+		<info name="num51Outputs"     value="0"/>
+	</VSTOutputInfos>
+		
+	<ReWireChannels numChannels="32">
+		<channel name="(HS2) St(1) L" stereo="1"/>
+		<channel name="(HS2) St(1) R" stereo="0"/>
+		<channel name="(HS2) St(2) L" stereo="1"/>
+		<channel name="(HS2) St(2) R" stereo="0"/>
+		<channel name="(HS2) St(3) L" stereo="1"/>
+		<channel name="(HS2) St(3) R" stereo="0"/>
+		<channel name="(HS2) St(4) L" stereo="1"/>
+		<channel name="(HS2) St(4) R" stereo="0"/>
+		<channel name="(HS2) St(5) L" stereo="1"/>
+		<channel name="(HS2) St(5) R" stereo="0"/>
+		<channel name="(HS2) St(6) L" stereo="1"/>
+		<channel name="(HS2) St(6) R" stereo="0"/>
+		<channel name="(HS2) St(7) L" stereo="1"/>
+		<channel name="(HS2) St(7) R" stereo="0"/>
+		<channel name="(HS2) St(8) L" stereo="1"/>
+		<channel name="(HS2) St(8) R" stereo="0"/>
+                <channel name="(HS2) St(9) L" stereo="1"/>
+		<channel name="(HS2) St(9) R" stereo="0"/>
+		<channel name="(HS2) St(10) L" stereo="1"/>
+		<channel name="(HS2) St(10) R" stereo="0"/>
+		<channel name="(HS2) St(11) L" stereo="1"/>
+		<channel name="(HS2) St(11) R" stereo="0"/>
+		<channel name="(HS2) St(12) L" stereo="1"/>
+		<channel name="(HS2) St(12) R" stereo="0"/>
+                <channel name="(HS2) St(13) L" stereo="1"/>
+		<channel name="(HS2) St(13) R" stereo="0"/>
+		<channel name="(HS2) St(14) L" stereo="1"/>
+		<channel name="(HS2) St(14) R" stereo="0"/>
+		<channel name="(HS2) St(15) L" stereo="1"/>
+		<channel name="(HS2) St(15) R" stereo="0"/>
+		<channel name="(HS2) St(16) L" stereo="1"/>
+		<channel name="(HS2) St(16) R" stereo="0"/>
+	</ReWireChannels>
+</ReWireDeviceDescription>
